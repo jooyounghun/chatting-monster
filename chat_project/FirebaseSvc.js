@@ -2,14 +2,14 @@ import firebase from 'firebase';
 import uuid from 'uuid';
 
 const config = {
-  apiKey: "AIzaSyDh-H6Thye3Z58DBd8pgo20CGx7PUxqa1U",
-  authDomain: "my-test-project-37907.firebaseapp.com",
-  databaseURL: "https://my-test-project-37907.firebaseio.com",
-  projectId: "my-test-project-37907",
-  storageBucket: "my-test-project-37907.appspot.com",
-  messagingSenderId: "450383173712",
-  appId: "1:450383173712:web:742e51045372f442155955",
-  measurementId: "G-FYG6FZFMQZ"
+  apiKey: "your API key",
+  authDomain: "",
+  databaseURL: "",
+  projectId: "",
+  storageBucket: ",
+  messagingSenderId: "",
+  appId: "your app id",
+  measurementId: "your mesurement id"
 }
 
 class FirebaseSvc {
