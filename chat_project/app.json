@@ -1,0 +1,12 @@
+{
+      "expo": {
+       "name": "chattingmonster",
+       "icon": "./image.png",
+       "version": "1.0.0",
+       "slug": "my-slug",
+       "sdkVersion": "37.0.0",
+       "android": {
+         "package": "com.henry.chattingmonster"
+       }
+      }
+}
